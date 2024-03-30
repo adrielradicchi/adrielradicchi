@@ -1,6 +1,6 @@
 ### Hi there, I'm Adriel Radicchi 👋
 
-I'm 35 years old, I have a degree in computer science and I also have an MBA in Project Management, I also have about 9 years of experience as a software developer and 2 years of experience as a product analyst. Above flow my social media and techs I used on my day and staticts about my profile on github. 
+I'm 35 years old, I have a degree in computer science and I also have an MBA in Project Management, I also have about 9 years of experience as a software developer and 2 years of experience as a product analyst. Below are my social media and technologies I used in my day and statistics about my github profile.
 
 ### Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrielradicchi)
