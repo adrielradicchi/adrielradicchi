@@ -39,6 +39,6 @@ I'm 35 years old, I have a degree in computer science and I also have an MBA in 
 
 ### Statistics about my profile
 <div align="center">
-  <img height="180em" alt="Adriel Radicchi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adrielradicchi&show_icons=true&theme=dracula">
+  <img height="180em" alt="Adriel Radicchi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adrielradicchi&show_icons=true&theme=dark">
   <img height="180em" alt="Adriel Radicchi's Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielradicchi&theme=dracula&layout=compact">
 </div>
