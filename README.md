@@ -1,4 +1,4 @@
-### Hi there, I'm Adriel Radicchi 👋
+### Hi there, I'm Adriel Radicchi 👋🏼
 
 I'm 35 years old, I have a degree in computer science and I also have an MBA in Project Management, I also have about 9 years of experience as a software developer and 2 years of experience as a product analyst. Below are my social media and technologies I used in my day and statistics about my github profile.
 
