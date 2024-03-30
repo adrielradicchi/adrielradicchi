@@ -34,7 +34,7 @@ I'm 35 years old, I have a degree in computer science and I also have an MBA in 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 
-### Staticts about my profile
+### Statistics about my profile
 ![Adriel Radicchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielradicchi&show_icons=true&theme=dracula)
 
 ![Adriel Radicchi's Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielradicchi&theme=dracula&layout=compact&hide_progress=true)
